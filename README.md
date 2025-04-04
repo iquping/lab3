@@ -1,5 +1,7 @@
 # Functional Requirements
 
+![img](image.png)
+
 1. **Dentist Registration**  
    The system shall allow the Office Manager to register new dentists, including their unique ID, name, phone number, email, and area of specialization.
 
